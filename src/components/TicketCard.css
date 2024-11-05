@@ -1,0 +1,13 @@
+.ticket-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.ticket-card h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}

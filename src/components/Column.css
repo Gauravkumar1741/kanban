@@ -1,0 +1,10 @@
+.column {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+}
+
+.column h2 {
+    text-align: center;
+}
